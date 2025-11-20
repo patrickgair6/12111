@@ -1,0 +1,9 @@
+#!name=Name Here
+#!desc=Description Here
+
+
+DOMAIN-SUFFIX,gemini.google.com,PROXY
+
+DOMAIN-SUFFIX,flowith.io,PROXY
+
+DOMAIN-SUFFIX,genspark.ai,PROXY
