@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,edge.microsoft.com,PROXY
 DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
 DOMAIN-SUFFIX,edgeservices.bing.com,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
+DOMAIN-SUFFIX,claude.ai,PROXY
