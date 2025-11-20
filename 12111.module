@@ -1,5 +1,6 @@
-#!name=tjj
-#!desc=Description
+#!name=proxy_list
+#!homepage=https://github.com/GMOogway/shadowrocket-rules
+#!desc=Rules:26423 Created:11-20 06:40 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,gemini.google.com,PROXY
 DOMAIN-SUFFIX,flowith.io,PROXY
