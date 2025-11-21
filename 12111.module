@@ -64,6 +64,10 @@ DOMAIN-SUFFIX,segment.io,PROXY
 DOMAIN-SUFFIX,sentry.io,PROXY
 DOMAIN-SUFFIX,stripe.com,PROXY
 DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
+DOMAIN-SUFFIX,cursor.com,PROXY
+DOMAIN-SUFFIX,cursor.sh,PROXY
+DOMAIN-SUFFIX,cursor-cdn.com,PROXY
+DOMAIN-SUFFIX,download.todesktop.com,PROXY
 DOMAIN-KEYWORD,openaicom-api,PROXY
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
