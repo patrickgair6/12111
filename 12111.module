@@ -33,6 +33,7 @@ DOMAIN,www.bing.com,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
 DOMAIN-SUFFIX,account.google.com,PROXY
 DOMAIN-SUFFIX,flowith.io,PROXY
+DOMAIN-SUFFIX,genspark.ai,PROXY
 DOMAIN-SUFFIX,events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
