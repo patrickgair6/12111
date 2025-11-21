@@ -1,6 +1,6 @@
-#!name=proxy_list
-#!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:26423 Created:11-20 06:40 Publisher:GMOogway
+#!name=proxy_list1
+#!homepage=https://github.com/patrickgair6/12111/raw/main/12111.module
+#!desc=Rules:26423 Created:11-20 06:40 Publisher:12111
 [Rule]
 DOMAIN,bing.com,PROXY
 DOMAIN,access-point.cloudmessaging.edge.microsoft.com,PROXY
@@ -64,3 +64,7 @@ DOMAIN-SUFFIX,sentry.io,PROXY
 DOMAIN-SUFFIX,stripe.com,PROXY
 DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
 DOMAIN-KEYWORD,openaicom-api,PROXY
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,14061,no-resolve
+IP-ASN,20473,no-resolve
