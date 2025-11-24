@@ -116434,3 +116434,6 @@ DOMAIN-SUFFIX,quark.cn,DIRECT
 DOMAIN-SUFFIX,pan.quark.cn,DIRECT
 DOMAIN-SUFFIX,drive-m.quark.cn,DIRECT
 DOMAIN-KEYWORD,quark,DIRECT
+IP-CIDR,192.168.68.64/24,DIRECT   # 如果你的局域网段不同请告诉我
+HOST,alist.local,DIRECT         # 如果你用 mDNS
+PORT,5244,DIRECT                # 如果 Alist 运行在 5244
