@@ -1,6 +1,6 @@
 #!name=direct_list
-#!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:116885 Created:11-21 06:38 Publisher:GMOogway
+#!homepage=https://github.com/patrickgair6/12111/raw/main/sr_direct_list.module
+#!desc=Rules:116885 Created:11-21 06:38 Publisher:patrickgair6
 [Rule]
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,192.168.68.64/32,DIRECT
