@@ -2,16 +2,13 @@
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
 #!desc=Rules:116885 Created:11-21 06:38 Publisher:GMOogway
 [Rule]
-
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,192.168.68.64/32,DIRECT
 IP-CIDR,127.0.0.1/32,DIRECT
-       
 PORT,5244,DIRECT
 192.168.68.64 alist local
 127.0.0.1 localhost              
 HOST,alist.local,DIRECT  
-
 DOMAIN-SUFFIX,v2ex.cc,DIRECT
 DOMAIN-SUFFIX,gxbml.com,DIRECT
 DOMAIN-SUFFIX,hpwxc.com,DIRECT
