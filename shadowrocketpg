@@ -34,6 +34,16 @@ DOMAIN-SUFFIX,msedge.net,PROXY
 DOMAIN-SUFFIX,microsoft.com,PROXY
 DOMAIN-SUFFIX,live.com,PROXY
 DOMAIN-SUFFIX,msecnd.net,PROXY
+DOMAIN-SUFFIX,bing.net,Proxy
+DOMAIN-SUFFIX,msauth.net,Proxy
+DOMAIN-SUFFIX,msauthimages.net,Proxy
+DOMAIN,www.bing.com,Proxy
+DOMAIN-SUFFIX,bingviz.com,PROXY
+DOMAIN-KEYWORD,bing,PROXY
+DOMAIN-SUFFIX,login.live.com,PROXY
+DOMAIN-SUFFIX,account.microsoft.com,PROXY
+DOMAIN-SUFFIX,cortana.ai,Proxy
+DOMAIN-SUFFIX,location.microsoft.com,Proxy
 
 # 其他流量按代理走
 FINAL,PROXY
