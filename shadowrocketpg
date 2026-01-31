@@ -44,6 +44,12 @@ DOMAIN-SUFFIX,login.live.com,PROXY
 DOMAIN-SUFFIX,account.microsoft.com,PROXY
 DOMAIN-SUFFIX,cortana.ai,Proxy
 DOMAIN-SUFFIX,location.microsoft.com,Proxy
+DOMAIN-SUFFIX,msn.cn,Proxy        # 关键：防止Bing探测
+DOMAIN-SUFFIX,msn.com,Proxy
+DOMAIN-SUFFIX,microsoft.com,Proxy
+DOMAIN-SUFFIX,microsoftonline.com,Proxy
+DOMAIN-SUFFIX,live.com,Proxy
+DOMAIN-SUFFIX,outlook.com,Proxy
 
 # 其他流量按代理走
 FINAL,PROXY
