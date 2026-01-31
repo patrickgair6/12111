@@ -50,7 +50,8 @@ DOMAIN-SUFFIX,microsoft.com,Proxy
 DOMAIN-SUFFIX,microsoftonline.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
-DOMAIN-SUFFIX,r.bing.com,PROXY
+DOMAIN-SUFFIX,r.bing.com,Proxy
+DOMAIN-SUFFIX,r.bing.net,Proxy
 
 # 其他流量按代理走
 FINAL,PROXY
