@@ -52,6 +52,8 @@ DOMAIN-SUFFIX,live.com,Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
 DOMAIN-SUFFIX,r.bing.com,Proxy
 DOMAIN-SUFFIX,r.bing.net,Proxy
+IP-CIDR,202.89.233.0/24,Proxy
+IP-CIDR,202.89.0.0/16,Proxy,no-resolve
 
 # 其他流量按代理走
 FINAL,PROXY
